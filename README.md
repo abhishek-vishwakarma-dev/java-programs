@@ -52,7 +52,7 @@ Here is a day-wise record of the Java concepts I have studied and practised.
 
 I am also building separate Java mini projects to apply the concepts I learn.
 
-👉 [Explore My Java Mini Projects](./Java-Mini-Projects)
+👉 [Explore My Java Mini Projects](https://github.com/abhishek-vishwakarma-dev/Java-Mini-Projects)
 
 ---
 
@@ -71,5 +71,7 @@ This repository will continue to grow as I learn new concepts and improve my pro
 🎓 B.Tech CSE '29 | LNCT&S Bhopal  
 ☕ Java & DSA Learner  
 💻 Aspiring Backend Developer
+
+🐙 **GitHub:** [@abhishek-vishwakarma-dev](https://github.com/abhishek-vishwakarma-dev)
 
 **Learning every day. Building step by step.** 🚀
