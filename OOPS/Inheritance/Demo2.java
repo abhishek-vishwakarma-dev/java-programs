@@ -1,4 +1,4 @@
-public class inhrt {
+public class Demo2 {
     public static void main(String[] args) {
         EngineeringStudent es = new EngineeringStudent();
         es.name = "Abhishek";
