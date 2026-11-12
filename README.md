@@ -52,7 +52,7 @@ Here is a day-wise record of the Java concepts I have studied and practised.
 
 I am also building separate Java mini projects to apply the concepts I learn.
 
-👉 [Explore My Java Mini Projects](https://github.com/abhishek-vishwakarma-dev/Java-Mini-Projects)
+👉 [Explore My Java Mini Projects](https://github.com/abhishek-vishwakarma-dev/java-mini-projects)
 
 ---
 
